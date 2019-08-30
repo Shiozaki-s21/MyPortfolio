@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/MyPortfolio",
+  pathPrefix: "/",
   siteMetadata: {
     title: "Gatsby Starter - Photon",
     author: "Hunter Chang",
